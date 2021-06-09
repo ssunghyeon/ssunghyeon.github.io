@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "**박성현**"
+  name             : "박성현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "꾸준히 성장하는 개발자"
   location         : "Republic of KOREA"
   email            : "nhaegoll1@gmail.com"
   links:
