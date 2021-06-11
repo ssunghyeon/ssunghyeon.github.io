@@ -4,6 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-### A B O U T   M E...
+### A B O U T  M E...
+
 
 저는
