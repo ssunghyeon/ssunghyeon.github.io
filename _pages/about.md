@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-### A B O U T  M E...  
+###<u><span style="color:grey">ABOUT ME...</span></u>  
 
 
 저는
