@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-<span style="color:#D0D3D4">ABOUT ME...</span>
+<span style="color:#BDC3C7">ABOUT ME...</span>
 ---
 
 
