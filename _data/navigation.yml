@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Category"
     url: /categories/
-  - title: "Tag"
-    url: /tags/
+  - title: "Github"
+    url: https://github.com/ssunghyeon
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
