@@ -2,7 +2,7 @@
 title: ""
 permalink: /about/
 layout: single
-font-size: 15px
+font-size: 13px
 ---
 
 <span style="color:#BDC3C7">ABOUT ME...</span>
