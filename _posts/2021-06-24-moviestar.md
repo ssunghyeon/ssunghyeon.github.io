@@ -24,7 +24,7 @@ tags:
 
   [코드 보러가기](https://github.com/ssunghyeon/board_practice-bookreview)
 
-  <img src="/Users/admin/Documents/GitHub/ssunghyeon.github.io/_posts/{{ site.url }}{{ site.baseurl }}/assets/images/moviep.png" width="800px" alt="main">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/moviep.png" width="800px" alt="main">
 
 - 적용 기술
 
