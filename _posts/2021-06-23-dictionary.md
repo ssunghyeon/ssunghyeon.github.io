@@ -28,7 +28,7 @@ tags:
 
 - 적용 기술
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dics.png" width="400px" alt="main">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dics.png" width="350px" alt="main">
 
 - 배운 점
 
