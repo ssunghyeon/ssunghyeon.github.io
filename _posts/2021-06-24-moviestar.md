@@ -22,7 +22,7 @@ tags:
 
   네이버 영화배우 페이지를 스크래핑해서 웹페이지에 좋아요로 순위를 나타내는 웹페이지입니다
 
-  [코드 보러가기](https://github.com/ssunghyeon/board_practice-bookreview)
+  [코드 보러가기](https://github.com/ssunghyeon/crawling_practice-moviestar)
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/moviep.png" width="800px" alt="main">
 
